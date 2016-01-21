@@ -2,7 +2,7 @@
 ### Experimental Code.  Experimental R Interface for IBM Watson Services -
 ### Focus: Natural Language Classifier - R Programming Language Interface
 ### Playing with ICD Codes - multiple classifiers - proof of concept (not optimized, and no pre- or post- classifiers in this example)
-######################################################
+###################################################### 
 
 library(RCurl) # install.packages("RCurl") # if the package is not already installed
 library(httr)
