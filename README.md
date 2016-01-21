@@ -2,6 +2,7 @@
 ICD-10 nternational Statistical Classification of Diseases and Related Health Problems  - Ground Truth and some Experimental R Code for NL Classifier
 
 BLOG --- https://dreamtolearn.com/ryan/r_journey_to_watson/17
+SERVICE - http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/nl-classifier.html  
 
 Background
 
