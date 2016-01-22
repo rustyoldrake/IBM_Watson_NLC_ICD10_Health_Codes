@@ -6,7 +6,7 @@ SERVICE - http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/nl-cla
 
 Background
 
-ICT-10 is the International Statistical Classification of Diseases and Related Health Problems 10th Revision.  It's a REALLY long list of codes that hospitals and insurance companies use to classify treatments.
+ICD-10 is the International Statistical Classification of Diseases and Related Health Problems 10th Revision.  It's a REALLY long list of codes that hospitals and insurance companies use to classify treatments.
 
 It's 65k+ rows of ailments.  It's a big and interesting data set.
 
@@ -14,9 +14,11 @@ At a recent IBM Watson team summit, the data set came up in a conversation with 
 
 Benefits of such a system would include:
 
-    More accurate tagging of PRIMARY and SECONDARY ICT 10 Codes - better data for all the reasons that the codes exist in the first place (better fit)
-    More profitability for hospitals (assuming better tagging can translate to more successful claims from insurance companies)
-    Save Time - less rework and re-classification
+    -More accurate tagging of PRIMARY and SECONDARY ICD 10 Codes - better data for all the reasons that the codes exist in the first place (better fit)
+    
+    -More profitability for hospitals (assuming better tagging can translate to more successful claims from insurance companies)
+    
+    -Save Time - less rework and re-classification
 
     WIKI:  https://en.wikipedia.org/wiki/ICD-10#List
 
@@ -28,11 +30,8 @@ https://github.com/rustyoldrake/IBM_Watson_NLC_ICD10_Health_Codes
 BLOG: https://dreamtolearn.com/ryan/r_journey_to_watson/16
 
  
-
  
-
- 
-ICT-10 Organization
+ICD-10 Organization ======
 
 Here's what it looks like at a meta level:
 
